@@ -1,0 +1,21 @@
+{
+    "saveDir":"/Users/sameer/Downloads/Mangas",
+    "names":
+    {
+        "theGreatImmortal":
+        {
+            "url":"https://manhuaplus.com/manga/im-the-great-immortal/",
+            "latest":235
+        },
+        "StrongestGodKing":
+        {
+            "url":"https://manhuaplus.com/manga/the-strongest-god-king/",
+            "latest":142
+        },
+        "BlackClover":
+        {
+            "url":"https://mangaplus.shueisha.co.jp/titles/100003",
+            "latest":270
+        }
+    }
+}
